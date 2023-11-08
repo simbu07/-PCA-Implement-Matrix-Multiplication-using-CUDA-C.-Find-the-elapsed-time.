@@ -1,4 +1,4 @@
-# PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time...
+# <p align="center"> PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time </p>
 
 Implement Matrix Multiplication using GPU.
 
