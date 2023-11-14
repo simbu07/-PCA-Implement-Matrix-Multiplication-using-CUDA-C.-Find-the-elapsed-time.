@@ -32,8 +32,6 @@ Save the program and execute it .
 
 ```CUDA
 
-### Developed by:silambarasan K
-### Register No: 212221230101
 
 #include <stdio.h>
 #include <sys/time.h>
